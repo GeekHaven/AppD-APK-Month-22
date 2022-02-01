@@ -29,8 +29,9 @@ For any type of query or issue, you can contact us on our Discord Server.
 
 
 ### Creating a Pull Request
- - After working on the Issue assigned, create a [Pull Request](https://help.github.com/articles/about-pull-requests/).
- - Use the [PR Template](https://github.com/GeekHaven/AppD-APK-Month-22/blob/main/.github/pull_request_template) while creating a Pull Request. Note that the Pull Request must be in the same format as mentioned in the Template.
+ - After working on the Issue assigned,
+ - Make a .json file with the [format](.github/Sample_json_file.json) and add this json file to the Folder "Task1" in the forked repo and then create a [Pull Request](https://help.github.com/articles/about-pull-requests/).
+ - Use the [PR Template](.github/Pull_Request_Template.md) while creating a Pull Request. Note that the Pull Request must be in the same format as mentioned in the Template.
  - It is suggested to create a new branch for each pull request so that the work of a particular issue does not affect the other one.
 
 ## Guidelines and Best Practice
